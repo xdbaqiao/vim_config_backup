@@ -1,6 +1,6 @@
 My vim configuration backup.    
 ====
-*It's my simple vim configuration.
+**It's my simple vim configuration.
 
 Main plugins:    
 [vim-powerline](https://github.com/Lokaltog/vim-powerline)     
